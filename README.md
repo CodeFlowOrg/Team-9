@@ -16,7 +16,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 ## Problem We are trying to solve
-<p>In any organisations whether a college, a school or any goverment and private organisation, people in the organisation always come across some issues which they cann't solve but only the authorities can. Some organisations are really concerned about the members and want to know if they have any issue within the organisation or is there something that they want to get solved because members satisfaction with the organisation is the most important thing. Or In some cases people do complains but their problems are not heard or solved because of less support.</P>
+<p>In any organisations whether a college, a school or any goverment and private organisation, people in the organisation always come across some issues which they can't solve but only the authorities can. Some organisations are really concerned about the members and want to know if they have any issue within the organisation or is there something that they want to get solved because members satisfaction with the organisation is the most important thing. Or In some cases people do complains but their problems are not heard or solved because of less support.</P>
 
 ## Solution
 <p> Our team came up with the idea of an open forum where<p>
