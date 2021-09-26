@@ -21,7 +21,7 @@
 ## Solution
 <p> Our team came up with the idea of an open forum where<p>
 
-- issues posted by members can be publicly tracked. All members can vote on posted issues to make sure relevant issues are highlighted. Once posted an issue is auto-assigned to appropriate staff members ensuring that concerned parties always know whom to approach if the resolution is stagnated. After resolution students again get to vote on how satisfactorily the issue was handled.
+- issues posted by members can be publicly tracked. All members can vote on posted issues to make sure relevant issues are highlighted. Once posted an issue is auto-assigned to appropriate staff members ensuring that concerned parties always know whom to approach if the resolution is stagnated. After resolution members again get to vote on how satisfactorily the issue was handled.
 - Posts can be voted on ensuring only relevant issues come to the forefront.
 - Assigning issues to specific staff members ensure accountability.
 - Public tracking of resolution progress and members ability to vote on satisfactory resolution encourages transparency.
