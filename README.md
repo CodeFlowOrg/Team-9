@@ -83,3 +83,4 @@ Don't worry, You can refer to the following articles and also contact the Projec
   </tr>
   
 </table>
+<p align="center">:star::star:Star the Repo if you like the Project idea or want to follow it later, fork it if you want to contribute :sparkles:</p>
