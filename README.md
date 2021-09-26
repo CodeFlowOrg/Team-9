@@ -1,4 +1,5 @@
 <h1 align="center"> TEAM 9</h1>
+<h2 align="center"> (PROJECT NAME In Progress.....)<h2>
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/68437435/134775433-ea60b001-14cd-404f-a0aa-7da9152ca809.gif" width=500 height=300 alt="Banner">
 </p>
@@ -14,9 +15,28 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-## Tech-Stacks 💻
-<h3>JAVASCRIPT</h3>
+## Problem We are trying to solve
+<p>In any organisations whether a college, a school or any goverment and private organisation, people in the organisation always come across some issues which they cann't solve but only the authorities can. Some organisations are really concerned about the members and want to know if they have any issue within the organisation or is there something that they want to get solved because members satisfaction with the organisation is the most important thing. Or In some cases people do complains but their problems are not heard or solved because of less support.</P>
 
+## Solution
+<p> Our team came up with the idea of an open forum where<p>
+
+- issues posted by members can be publicly tracked. All members can vote on posted issues to make sure relevant issues are highlighted. Once posted an issue is auto-assigned to appropriate staff members ensuring that concerned parties always know whom to approach if the resolution is stagnated. After resolution students again get to vote on how satisfactorily the issue was handled.
+- Posts can be voted on ensuring only relevant issues come to the forefront.
+- Assigning issues to specific staff members ensure accountability.
+- Public tracking of resolution progress and members ability to vote on satisfactory resolution encourages transparency.
+
+## Tech-Stacks 💻
+<h3>Frontend</h3>
+
+- Html
+- Bootstrap
+- css
+- Javascript
+<h3>Backend</h3>
+	
+- Node.js
+- MongoDB (for Database)
 ## How to get started?
 <h3 align="center">A beginner and don't know How and Where to start???</h3>
 <p align="center">
