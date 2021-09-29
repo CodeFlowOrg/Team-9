@@ -77,6 +77,7 @@ Don't worry, You can refer to the following articles and also contact the Projec
   <tr>
     <td align="center"><a href="https://github.com/Subhangini/"><img src="https://avatars.githubusercontent.com/u/68437435?v=4" width="100px;" alt=""/><br /><sub><b>Subhangini</b></sub></a></td>
     <td align="center"><a href="https://github.com/aditi944"><img src="https://avatars.githubusercontent.com/u/68181276?v=4" width="100px;" alt=""/><br /><sub><b>Aditi Jha</b></sub></a></td>
+    <td align="center"><a href="https://github.com/nitinjaiswal7537"><img src="https://avatars.githubusercontent.com/u/70879617?v=4" width="100px;" alt=""/><br /><sub><b>Nitin Jaiswal</b></sub></a></td>
     <td align="center"><a href="https://github.com/anshika208"><img src="https://avatars.githubusercontent.com/u/54038386?v=4" width="100px;" alt=""/><br /><sub><b>Anshika Srivastava</b></sub></a></td>
     <td align="center"><a href="https://github.com/umaidansari12"><img src="https://avatars.githubusercontent.com/u/44375704?v=4" width="100px;" alt=""/><br /><sub><b>Mohammad Umaid Ansari</b></sub></a></td>
     
