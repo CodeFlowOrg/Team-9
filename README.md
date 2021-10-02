@@ -44,6 +44,7 @@
 	
 ## Phase 1:-
 <h3>Features:-</h3>
+	
 - Created the front-end design of the home page where users can see the issues posted.
 	
 ## How to get started?
