@@ -31,13 +31,21 @@
 <h3>Frontend</h3>
 
 - Html
+- Css
 - Bootstrap
-- css
 - Javascript
+- jQuery
+	
 <h3>Backend</h3>
 	
 - Node.js
+- Express.js
 - MongoDB (for Database)
+	
+## Phase 1:-
+
+- Created the front-end design of the website using Html, Css and Bootstrap.
+	
 ## How to get started?
 <h3 align="center">A beginner and don't know How and Where to start???</h3>
 <p align="center">
