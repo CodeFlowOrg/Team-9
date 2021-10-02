@@ -43,8 +43,8 @@
 - MongoDB (for Database)
 	
 ## Phase 1:-
-
-- Created the front-end design of the website using Html, Css and Bootstrap.
+## Features:-
+- Created the front-end design of the home page where users can see the issues posted.
 	
 ## How to get started?
 <h3 align="center">A beginner and don't know How and Where to start???</h3>
