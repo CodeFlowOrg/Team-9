@@ -5,14 +5,15 @@
 	<img src="https://user-images.githubusercontent.com/68437435/134775433-ea60b001-14cd-404f-a0aa-7da9152ca809.gif" width=500 height=300 alt="Banner">
 </p>
 
-[![Number of Contributors](https://img.shields.io/github/contributors/CodeFlow201/Team-9)](https://github.com/CodeFlow201/Team-9/graphs/contributors)
+[![Hactoberfest](https://img.shields.io/badge/Hactoberfest-21-red)
+  ![Number of Contributors](https://img.shields.io/github/contributors/CodeFlow201/Team-9)](https://github.com/CodeFlow201/Team-9/graphs/contributors)
   [![Issues opened](https://img.shields.io/github/issues/CodeFlow201/Team-9)](https://github.com/CodeFlow201/Team-9)
   [![Issues closed](https://img.shields.io/github/issues-closed/CodeFlow201/Team-9)](https://github.com/CodeFlow201/Team-9/issues)
   [![PRs open](https://img.shields.io/github/issues-pr/CodeFlow201/Team-9)](https://github.com/CodeFlow201/Team-9/pulls)
   [![PRs closed](https://img.shields.io/github/issues-pr-closed/CodeFlow201/Team-9)](https://github.com/CodeFlow201/Team-9/pulls)
   ![Repo size](https://img.shields.io/github/repo-size/CodeFlow201/Team-9)
   [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
- 
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
