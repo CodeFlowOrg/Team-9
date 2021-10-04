@@ -97,15 +97,8 @@ Don't worry, You can refer to the following articles and also contact the Projec
 </table>
 	
 <h2>✨Contributors</h2>   
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Subhangini/"><img src="https://avatars.githubusercontent.com/u/68437435?v=4" width="100px;" alt=""/><br /><sub><b>Subhangini</b></sub></a></td>
-    <td align="center"><a href="https://github.com/snega16/"><img src="https://avatars.githubusercontent.com/u/72247694?v=4" width="100px;" alt=""/><br /><sub><b>Snega</sub></a></td>
-    <td align="center"><a href="https://github.com/JanviRaina/"><img src="https://avatars.githubusercontent.com/u/50794649?v=4" width="100px;" alt=""/><br /><sub><b>Janvi</sub></a></td>
-  </tr>
-</table>
+<a href = "https://github.com/CodeFlow201/Team-9/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CodeFlow201/Team-9"/>
+</a>
 
 <p align="center">:star::star:Star the Repo if you like the Project idea or want to follow it later, fork it if you want to contribute :sparkles:</p>
