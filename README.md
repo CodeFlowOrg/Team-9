@@ -98,7 +98,7 @@ Don't worry, You can refer to the following articles and also contact the Projec
 	
 <h2>✨Contributors</h2>   
 <a href = "https://github.com/CodeFlow201/Team-9/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CodeFlow201/Team-9/">
+  <img src="https://contrib.rocks/image?repo=CodeFlow201/Team-9">
 </a>
 
 <p align="center">:star::star:Star the Repo if you like the Project idea or want to follow it later, fork it if you want to contribute :sparkles:</p>
