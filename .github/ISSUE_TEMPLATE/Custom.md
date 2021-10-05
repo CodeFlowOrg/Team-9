@@ -1,7 +1,7 @@
 ---
 name: Custom
 about: Issue is related to Docs/something else
-title: '[Issue type] <title>'
+title: ' <title>'
 labels: Issue type
 assignees: ''
 
