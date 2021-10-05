@@ -62,12 +62,47 @@ Don't worry, You can refer to the following articles and also contact the Projec
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
 ## How to Contribute?
-- Take a look at the Existing [Issues](https://github.com/CodeFlow201/Team-9/issues) or create your own Issues!
+<!-- - Take a look at the Existing [Issues](https://github.com/CodeFlow201/Team-9/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
 - Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
 - If applicable, add screenshots to show the changes you made.
-- Last but not the least don't forget to have fun while contributing.
+- Last but not the least don't forget to have fun while contributing. -->
+<ul>
+<li>Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)</li>
+<li>Clone your fork down to your local machine</li>
+
+git clone https://github.com/your-username/Team-9.
+Create a branch
+git checkout -b branch-name
+
+<li>Make your changes (choose from any task below)</li>
+<li>Commit and push</li>
+git add .
+git commit -m 'Commit message'
+git push origin branch-name
+
+<li>Create a pull request from your forked repository (Click the Pull Request button located at the top of your repo)</li>
+<li>Wait for your PR review and merge approval!</li>
+<li>Star this repository if you had fun!!!</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
