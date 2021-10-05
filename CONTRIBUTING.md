@@ -18,11 +18,6 @@ You can star and fork this repository on GitHub by navigating at the top of this
 
 ![Fork this repository](https://camo.githubusercontent.com/b22b37874052e69f2e83743b5763440aec7af332e6ea51df6b86652a343d8b6e/68747470733a2f2f68656c702e6769746875622e636f6d2f6173736574732f696d616765732f68656c702f7265706f7369746f72792f666f726b5f627574746f6e2e6a7067)
 
-After forking, you will see two repositories with the same name 'dsc-hacktoberfest-2021'. 
-  - CodeFlow201/Team-9
-  - your-username/Team-9
-
-You can make changes directly to **your** repository i.e. `your-username/Team-9` but you cannot make changes to **this** repository directly. You can contribute here by submitting your changes as `pull requests`.
 
 
 ### 3. Clone the Repository
