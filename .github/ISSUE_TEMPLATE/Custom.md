@@ -1,5 +1,5 @@
 ---
-name: Issue type
+name: Custom
 about: Issue is related to Docs/something else
 title: '[Issue type] <title>'
 labels: Issue type
