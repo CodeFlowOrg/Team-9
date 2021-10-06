@@ -101,4 +101,8 @@ Don't worry, You can refer to the following articles and also contact the Projec
   <img src="https://contrib.rocks/image?repo=CodeFlow201/Team-9" />
 </a>
 
+<p align="center">&mdash; 🔑  &mdash;</p>
+<p align="center"><i>Team-9 is a <a href="https://github.com/CodeFlow201/Team-9/blob/master/LICENSE">MIT License</a> code</i></p>
+
 <p align="center">:star::star:Star the Repo if you like the Project idea or want to follow it later, fork it if you want to contribute :sparkles:</p>
+
