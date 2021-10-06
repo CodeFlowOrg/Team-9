@@ -102,3 +102,9 @@ Don't worry, You can refer to the following articles and also contact the Projec
 </a>
 
 <p align="center">:star::star:Star the Repo if you like the Project idea or want to follow it later, fork it if you want to contribute :sparkles:</p>
+
+## License & Copyright
+
+ © Team-9 , CodeFlow201.
+
+Licensed under the [MIT License](LICENSE). 
