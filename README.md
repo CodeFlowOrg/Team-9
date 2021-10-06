@@ -1,7 +1,6 @@
 <h1 align="center"> TEAM 9</h1>
 <h2 align="center"> (PROJECT NAME In Progress.....)<h2>
 <p align="center">
-	Visit the website at:- https://subhangini.github.io/Team-9/
 	<img src="https://user-images.githubusercontent.com/68437435/134775433-ea60b001-14cd-404f-a0aa-7da9152ca809.gif" width=500 height=300 alt="Banner">
 </p>
 
@@ -47,6 +46,7 @@
 <h3>Features:-</h3>
 	
 - Created the front-end design of the home page where users can see the issues posted.
+- Visit the website at:- https://subhangini.github.io/Team-9/ (Just for a refrence and to get a clear idea of our project this is not our finalised UI/UX. *Need Help for UI/UX*).
 	
 ## How to get started?
 <h3 align="center">A beginner and don't know How and Where to start???</h3>
