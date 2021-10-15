@@ -1,5 +1,5 @@
 <h1 align="center"> TEAM 9</h1>
-<h2 align="center"> (PROJECT NAME In Progress.....)<h2>
+<h2 align="center"> ISSUE SOLVER <h2>
 <p align="center">
 	<img src="https://user-images.githubusercontent.com/68437435/134775433-ea60b001-14cd-404f-a0aa-7da9152ca809.gif" width=500 height=300 alt="Banner">
 </p>
