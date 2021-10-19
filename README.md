@@ -46,7 +46,7 @@
 <h3>Features:-</h3>
 	
 - Created the front-end design of the home page where users can see the issues posted.
-- Visit the website at:- https://subhangini.github.io/Team-9/ (Just for a refrence and to get a clear idea of our project this is not our finalised UI/UX. *Need Help for UI/UX*).
+- Visit the website at:-https://codeflow201.github.io/Team-9/ (Just for a refrence and to get a clear idea of our project this is not our finalised UI/UX. *Need Help for UI/UX*).
 	
 ## How to get started?
 <h3 align="center">A beginner and don't know How and Where to start???</h3>
