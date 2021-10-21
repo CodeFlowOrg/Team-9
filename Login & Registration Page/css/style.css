@@ -10,6 +10,29 @@ body,
 input {
 	font-family: "Poppins", sans-serif;
 }
+header{
+	position: sticky;
+	height: 50px;
+}
+.containerlogo{
+	display: flex;
+	background-color:#ffab00;
+	flex-direction: row;
+}
+
+.item{
+	margin: 10px;
+	/* padding: 3px; */
+}
+a{
+	text-decoration: none;
+}
+.loginLogo{
+	height: 2rem;
+	width: 3rem;
+
+}
+
 
 .container {
 	position: relative;
