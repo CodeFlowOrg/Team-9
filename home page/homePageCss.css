@@ -1,0 +1,106 @@
+*{
+    font-family: roboto ;
+}
+.header{
+    padding: 0px 6px;
+    height: 90px;
+    align-items: center;
+background: rgba(0, 0, 0, 0.43);
+}
+.header img{
+    height: 78px;
+    width: 75px;
+}
+.header a{
+    margin: 0px 18px;
+    font-family: sans-serif;
+    font-style: normal;
+    line-height: 33px;
+    size: 32px;
+    font-weight: normal;
+    text-decoration-line: none;
+    color: white;
+}
+
+.header .active{
+    color: #FFCD31;
+}
+
+.profile .user_image{
+    height: 100px;
+    width: auto;
+}
+
+.card{
+    background-color: rgb(245, 243, 243);
+    border-radius: 12px;
+    font-family: sans-serif;
+}
+
+
+.profile a{
+    margin: 0px 18px;
+    font-family: sans-serif;
+    font-style: normal;
+    line-height: 33px;
+    size: 32px;
+    font-weight: normal;
+    text-decoration-line: none;
+    margin: 0px 18px;
+    font-family: sans-serif;
+    font-style: normal;
+    line-height: 33px;
+    size: 32px;
+    font-weight: normal;
+    text-decoration-line: none;
+    color: #FFCD31;
+}
+.edit_image{
+    height: 18px;
+}
+
+.user_issues p{
+    color: gray;
+}
+.user_issues button{
+    background-color: #FFCD31;
+    color: white;
+    border-radius: 12px;
+    border: 0px;
+}
+.next_arrow{
+    height: 22px;
+    width: 18px;
+}
+.all_issues .card{
+    background-color: white;
+}
+
+.all_issues .card img{
+    height: 200px;
+    width: auto;
+}
+.all_issues .card button{
+   border: none;
+   background-color: transparent;
+}
+.all_issues .card button img{
+    height: 32px;
+    width: auto;
+}
+
+.issue_detail_button button{
+    color: #FFCD31;
+}
+.page-footer .container{
+    color: white;
+    background-color: rgb(0, 0, 0, 0.43);
+}
+.footer-copyright{
+    background-color: black;
+    color: white;
+}
+.footer-copyright a{
+    text-decoration: none;
+    color: white;
+}
